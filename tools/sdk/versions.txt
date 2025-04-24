@@ -1,5 +1,5 @@
 esp-idf: v4.4.8 e499576efd
-arduino: 1f038677
+arduino: release/v2.x 1f038677
 esp32-camera: v2.0.15 229adc6
 esp-dl: 0632d24
 esp_littlefs: v1.16.4 71e5492
